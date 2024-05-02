@@ -37,7 +37,7 @@ class DetailsScreen extends StatelessWidget {
                       style: Theme.of(context)
                           .textTheme
                           .display1
-                          .copyWith(fontWeight: FontWeight.w900),
+                          .copyWith(fontWeight: FontWeight.w901),
                     ),
                     SizedBox(height: 10),
                     Text(
